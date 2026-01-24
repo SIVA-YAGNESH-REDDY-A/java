@@ -1,1 +1,5 @@
-# ips
+# ips 
+HELLO...
+this is git-hub demo repository 
+
+git-hub is quit easy and reliable to use....
